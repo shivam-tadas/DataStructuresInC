@@ -15,6 +15,7 @@ This repository contains implementations of various data structures in C. Each i
 
 - **Linked List** (MenuDrivenLL.c): A singly linked list implementation with operations for insertion, deletion and traversal.
 - **Queue** (MenuDrivenQueue.c): A queue implementation with enqueue, dequeue, and display operations.
+- **Array ADT** (MenuArrayADT.c): An implementation of a simple array ADT with insert, clear and display operations.
 
 ## How to Use
 
@@ -44,6 +45,7 @@ This repository contains implementations of various data structures in C. Each i
 
 - `MenuDrivenLLc.c` - Implementation of a linked list with a menu interface
 - `MenuDrivenQueue.c` - Implementation of a queue with a menu interface
+- `MenuArrayADT.c` - Implementation of array ADT with a menu interface
 
 ## Contributing
 
